@@ -1,9 +1,8 @@
 /* custom css */
 
 /* Background from Subtle Patterns */
-body {
-    
-    background-image: url("images/crossline-dots.png");
+body { 
+    background-image: url("../images/crossline-dots.png");
 }
 
 footer { 
