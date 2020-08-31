@@ -2,7 +2,7 @@
 
 /* Background from Subtle Patterns */
 body { 
-    background-image: url("../images/crossline-dots.png");
+    background-image: url("../assests/images/crossline-dots.png");
 }
 
 footer { 
@@ -11,9 +11,19 @@ footer {
     margin: auto;
     text-align: center;
     color: cornsilk;
+    
 }
 
-section {
+a { 
+    color: aqua;
+}
+
+main {
     background-color: inherit
 
 }
+
+.navbar-dark {
+    border-color: none;
+}
+

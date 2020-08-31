@@ -34,3 +34,6 @@ I learned a good amount with this and quickly realized that with a lot of trial 
 - shortcut icon made by tracihello
 * *University of Pennsylvania's Class Videos
 - Instruction led by Dave Leonhardt
+<!-- Other Icons -->
+* *https://fontawesome.com/*
+- Various creators
