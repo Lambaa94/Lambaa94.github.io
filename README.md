@@ -4,9 +4,9 @@
 
 ### Summary
 
-When starting this project I did not previously know how to work with *Bootstrap* or that much **css**. After diving into the grid system and understanding it more I was able to properly space out my website so I have a nice blank canvas to create on. Then I began to create and style it up so it looks not only professional but unique by adding my own custom ideas and some borrowed. Using *Bootstrap*, *Bootswatch*, and *Toptol*, I was able to create more then just the out of the box style provided.
+When starting this project I did not previously know how to work with *Bootstrap* or that much **css**. After diving into the grid system and understanding it more I was able to properly space out my website so I have a nice blank canvas to create on. Then I began to create and style it up so it looks not only professional but unique by adding my own custom ideas and some borrowed. Using *Bootstrap*, *Bootswatch*, and *Toptol*, I was able to create more than just the out of the box styles that was provided.
 
-I started out first with the grid system by make my columns, rows, and sections. I linked the stylesheets to my **html** and gave everything on my page a basic title. This gave me something to start with and to build on. After that I began by going foward and placing my navbar and creating the contents of the page. After going through each page and tweaking all the measurements so that everything looked good and was responsive, I finished everything off with some background images and layouts.
+I started out first with the grid system by making my columns, rows, and sections. I linked the stylesheets to my **html** and gave everything on my page a basic title. This gave me something to start with and to build on. After that I began by going forward and placing my navbar and creating the contents of the page. After going through each page and tweaking all the measurements so that everything looked good and was responsive, I finished everything off with some background images and layouts.
 
 I learned a good amount with this and quickly realized that with a lot of trial and error, there becomes a better understanding of coding. Excited to learn more about this and further my education in **javascript**.
 
@@ -21,7 +21,16 @@ I learned a good amount with this and quickly realized that with a lot of trial 
 * When using a smaller device to view the page, in order to click the Navbar items you must select the dropdown menu to access the different pages.
 
 ## Credits
-
+<!-- Themes for Bootstrap -->
 * *bootswatch.com* 
-<!-- For different themes for Bootstrap -->
-*
+- Theme made by Thomas Park.
+- Code released under the MIT License.
+- Based on Bootstrap. Icons from Font Awesome. Web fonts from Google.
+<!-- Background Images -->
+* *https://www.toptal.com/designers/subtlepatterns/* 
+- Background made by Aleksey Nikolaev
+<!-- Shortcut Icon -->
+* *https://www.favicon.cc/*
+- shortcut icon made by tracihello
+* *University of Pennsylvania's Class Videos
+- Instruction led by Dave Leonhardt
