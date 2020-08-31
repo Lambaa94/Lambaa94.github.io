@@ -2,21 +2,26 @@
 
 ## Description
 
-### Summary 
-    When starting this project I did not previously know how to work with *Bootstrap* or that much **css**. After diving into the grid system and understanding it more I was able to properly space out my website so I have a nice blank canvas to create on. Then I began to create and style it up so it looks not only professional but unique by adding my own custom ideas and some borrowed. Using *Bootstrap*, *Bootswatch*, and *Toptol*, I was able to create more then just the out of the box style provided.
+### Summary
 
-    I started out first with the grid system by make my columns, rows, and section. I linked the stylesheets to my **html**
+When starting this project I did not previously know how to work with *Bootstrap* or that much **css**. After diving into the grid system and understanding it more I was able to properly space out my website so I have a nice blank canvas to create on. Then I began to create and style it up so it looks not only professional but unique by adding my own custom ideas and some borrowed. Using *Bootstrap*, *Bootswatch*, and *Toptol*, I was able to create more then just the out of the box style provided.
 
-### html
- 
- I started out changing all generic`<div>` tags to tags that made more sense for me. I added alt= to all img tags to give a description to what the image was. I fixed a navigation link that wasn't working do to an absent id tag. I also created a logo for the title.
+I started out first with the grid system by make my columns, rows, and sections. I linked the stylesheets to my **html** and gave everything on my page a basic title. This gave me something to start with and to build on. After that I began by going foward and placing my navbar and creating the contents of the page. After going through each page and tweaking all the measurements so that everything looked good and was responsive, I finished everything off with some background images and layouts.
 
-### css
- 
- I condensed items that were the same code so there wasn't any code that was repeating itself. I moved the main three sections above the aside becuase I thought that it matched more what the **html** page was showing. I went through and made sure any changes I made on the **html** side matched up with **css**.
+I learned a good amount with this and quickly realized that with a lot of trial and error, there becomes a better understanding of coding. Excited to learn more about this and further my education in **javascript**.
+
+## Usage
+
+* The homepage is the **index.html** which contains the About Me page. Click *About* or *James Lamb* in the Navbar to navigate to the index.
+
+* All portfolio items are in the **portfolio.html**. Click *Portfolio* in the Navbar to navigate to the portfolio page.
+
+* A contact form to contact James Lamb is in **contact.html**. Click *Contact* in the Navbar to navigate to the contact page.
+
+* When using a smaller device to view the page, in order to click the Navbar items you must select the dropdown menu to access the different pages.
 
 ## Credits
 
- *https://www.favicon-generator.org/*
-
- * This was used to make a favicon for the website.
+* *bootswatch.com* 
+<!-- For different themes for Bootstrap -->
+*
