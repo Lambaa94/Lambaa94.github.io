@@ -24,6 +24,12 @@ I learned a good amount with this and quickly realized that with a lot of trial 
 
 **https://lambaa94.github.io/**
 
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+
 ## Credits
 <!-- Themes for Bootstrap -->
 * *bootswatch.com* 
